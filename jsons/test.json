@@ -1,0 +1,454 @@
+
+{
+
+    "0":{
+        "movieName":"The-Silence",
+        "Year":"2019",
+        "age":"16+",
+        "type":"Thriller",
+        "poster":"/movies-images/english-movies/the-silence.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/english-trailers/thesilence.mp4",
+        "file1":"/english-movies/thesilence1.mp4"
+    
+       
+
+
+
+    
+    },
+
+    "1":{
+        "movieName":"Chicchore",
+        "Year":"2019",
+        "age":"12+",
+        "type":"Entertainment",
+        "poster":"/movies-images/hindi-movies/chhichhore.jpeg",
+        "Cast":"Shraddha-Kapoor,Sushant-singh-Rajput",
+        "trailer":"/hindi-movie-trailers/chhichore.mp4",
+        "file1":"/hindi-movies/Chhichore.mp4"
+      
+        
+
+
+
+    
+    },
+
+    "2":{
+        "movieName":"Bloodshot",
+        "Year":"2019",
+        "age":"12+",
+        "type":"Entertainment",
+        "poster":"/movies-images/english-movies/Bloodshot.jpg",
+        "Cast":"Vin-Dieseal",
+        "trailer":"/english-trailers/bloodshot.mp4",
+        "file1":"/english-movies/Bloodshot.mp4"
+      
+    
+    },
+
+
+    "3":{
+        "movieName":"Fantasy Island",
+        "Year":"2020",
+        "age":"18+",
+        "type":"Entertainment",
+        "poster":"/movies-images/english-movies/fantasyisland.jpg",
+        "Cast":"Lucy-hale,Micheal-Pena,Maggie-Q",
+        "trailer":"/english-trailers/fantasyisland.mp4",
+        "file1":"/english-movies/FantasyIsland.mp4"
+      
+    
+    }
+   
+
+   ,
+
+
+    "5":{
+        "movieName":"Dangal",
+        "Year":"2017",
+        "age":"12+",
+        "type":"Entertainment",
+        "poster":"/movies-images/hindi-movies/dangal.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/hindi-movie-trailers/dangal.mp4",
+        "file1":"/hindi-movie-trailers/dangal.mp4"
+
+
+    
+    },
+
+    "4":{
+        "movieName":"Bad Boys For Life",
+        "Year":"2019",
+        "age":"16+",
+        "type":"Story",
+        "poster":"/movies-images/english-movies/BadBoysforLife.jpg",
+        "Cast":"Will-Smith,Alex-Jhonson",
+        "trailer":"/english-trailers/badboysforlife .mp4",
+        "file1":"/english-movies/badboyforlife.mp4"
+
+       
+
+    
+    },
+
+
+
+    
+    "6":{
+        "movieName":"Drive",
+        "Year":"2020",
+        "age":"16+",
+        "type":"Thriller",
+        "poster":"/movies-images/hindi-movies/drive.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/hindi-movie-trailers/drive.mp4",
+        "file1":"/hindi-movie-trailers/drive.mp4"
+       
+    
+    },
+
+    "7":{
+        "movieName":"Force-2",
+        "Year":"2018",
+        "age":"12+",
+        "type":"Action",
+        "poster":"/movies-images/hindi-movies/force2.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/hindi-movie-trailers/force2.mp4",
+        "file1":"/hindi-movie-trailers/force2.mp4"
+        
+    
+    },
+
+    "8":{
+        "movieName":"Rustom",
+        "Year":"2015",
+        "age":"12+",
+        "type":"Bio-pic",
+        "poster":"/movies-images/hindi-movies/rustom.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/hindi-movie-trailers/rustom.mp4",
+        "file1":"/hindi-movie-trailers/rustom.mp4"
+
+
+    
+    },
+
+  
+
+    "10":{
+        "movieName":"Queen",
+        "Year":"2015",
+        "age":"12+",
+        "type":"Entertainment",
+        "poster":"/movies-images/hindi-movies/queen.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/hindi-movie-trailers/queen.mp4",
+        "file1":"/hindi-movie-trailers/queen.mp4"
+    
+    },
+
+    "11":{
+        "movieName":"Kabir-singh",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Entertainment",
+        "poster":"/movies-images/hindi-movies/kabir-singh.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/hindi-movie-trailers/kabirsingh.mp4",
+        "file1":"/hindi-movie-trailers/kabirsingh.mp4"
+        
+
+    
+    },
+
+    "12":{
+        "movieName":"Tamasha",
+        "Year":"2018",
+        "age":"12+",
+        "type":"Romance",
+        "poster":"/movies-images/hindi-movies/tamasha.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/hindi-movie-trailers/tamasha.mp4",
+        "file1":"/hindi-movie-trailers/tamasha.mp4"
+
+    
+    },
+
+    "13":{
+        "movieName":"The Zoya Factory",
+        "Year":"2019",
+        "age":"16+",
+        "type":"Entertainment",
+        "poster":"/movies-images/hindi-movies/the-zoya-factory.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/hindi-movie-trailers/zoyafactor.mp4",
+        "file1":"/hindi-movie-trailers/zoyafactor.mp4"
+
+    
+    },
+
+    "14":{
+        "movieName":"Parmanu",
+        "Year":"2018",
+        "age":"12+",
+        "type":"Story",
+        "poster":"/movies-images/hindi-movies/parmanu.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/hindi-movie-trailers/parmanu.mp4",
+        "file1":"/hindi-movie-trailers/parmanu.mp4"
+
+       
+
+    
+    },
+
+
+
+
+    "15":{
+        "movieName":"Love Per Square Feet",
+        "Year":"2018",
+        "age":"16+",
+        "type":"Romance",
+        "poster":"/movies-images/hindi-movies/love-per-square-feet.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/hindi-movie-trailers/lovepersquarefeet.mp4",
+        "file1":"/hindi-movie-trailers/lovepersquarefeet.mp4"
+
+       
+    
+    },
+
+
+
+    "16":{
+        "movieName":"Luka chuppi",
+        "Year":"2018",
+        "age":"16+",
+        "type":"Romance",
+        "poster":"/movies-images/hindi-movies/luka-chuppi.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/hindi-movie-trailers/lukachuppi.mp4",
+        "file1":"/hindi-movie-trailers/lukachuppi.mp4"
+
+
+    
+    },
+
+
+
+   
+
+
+
+    "18":{
+        "movieName":"Annabelle Creation",
+        "Year":"2019",
+        "age":"16+",
+        "type":"Horror",
+        "poster":"/movies-images/english-movies/annabelle.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/english-trailers/annacreat.mp4",
+        "file1":"/english-trailers/annacreat.mp4"
+
+    
+    },
+
+
+
+    "19":{
+        "movieName":"Arrival",
+        "Year":"2016",
+        "age":"16+",
+        "type":"Thriller",
+        "poster":"/movies-images/english-movies/arrival.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/english-trailers/arrival.mp4",
+        "file1":"/english-trailers/arrival.mp4"
+
+    
+    },
+
+
+
+    "20":{
+        "movieName":"Bird-Box",
+        "Year":"2015",
+        "age":"18+",
+        "type":"Thriller",
+        "poster":"/movies-images/english-movies/bird-box.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/english-trailers/birdbox.mp4",
+        "file1":"/english-trailers/birdbox.mp4"
+
+    
+    },
+
+
+
+
+
+    "22":{
+        "movieName":"IT",
+        "Year":"2016",
+        "age":"16+",
+        "type":"Horror",
+        "poster":"/movies-images/english-movies/it.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/english-trailers/it.mp4",
+        "file1":"/english-trailers/it.mp4"
+
+    },
+
+
+    "23":{
+        "movieName":"6 Underground",
+        "Year":"2015",
+        "age":"16+",
+        "type":"Action",
+        "poster":"/movies-images/english-movies/underground.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/english-trailers/6underground.mp4",
+        "file1":"/english-trailers/6underground.mp4"
+
+    
+    },
+
+
+    "24":{
+        "movieName":"John Wick",
+        "Year":"2017",
+        "age":"16+",
+        "type":"Action",
+        "poster":"/movies-images/english-movies/jhon wick.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/english-trailers/jhonwick.mp4",
+        "file1":"/english-trailers/jhonwick.mp4"
+
+    },
+
+
+    "26":{
+        "movieName":"Lion",
+        "Year":"2017",
+        "age":"12+",
+        "type":"Story",
+        "poster":"/movies-images/english-movies/lion.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/english-trailers/lion.mp4",
+        "file1":"/english-trailers/lion.mp4"
+
+    
+    },
+
+
+    "27":{
+        "movieName":"London Has Fallen Down",
+        "Year":"2014",
+        "age":"12+",
+        "type":"Action",
+        "poster":"/movies-images/english-movies/london-has-fallen.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/english-trailers/londonhfall.mp4",
+        "file1":"/english-trailers/londonhfall.mp4"
+    
+    },
+
+
+    "28":{
+        "movieName":"Now You See Me",
+        "Year":"2015",
+        "age":"16+",
+        "type":"Action",
+        "poster":"/movies-images/english-movies/now-you-see-me.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/english-trailers/nowuseeme.mp4",
+        "file1":"/english-trailers/nowuseeme.mp4"
+
+
+    
+    },
+
+
+    "29":{
+        "movieName":"The Social Network",
+        "Year":"2017",
+        "age":"16+",
+        "type":"Story",
+        "poster":"/movies-images/english-movies/the-social-network.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/english-trailers/TheSocialNetwork.mp4",
+        "file1":"/english-trailers/TheSocialNetwork.mp4"
+
+    
+    },
+    
+    "30":{
+        "movieName":"Andhadhun",
+        "Year":"2019",
+        "age":"16+",
+        "type":"Entertainment",
+        "poster":"/movies-images/hindi-movies/andhadhun.jpg",
+        "Cast":"Ayushmann-Khurrana,Radhika-Apte,Tabu",
+        "trailer":"/hindi-movie-trailers/andhadhun.mp4",
+        "file1":"/hindi-movie-trailers/andhadhun.mp4"
+        
+   
+
+    
+    },
+
+
+
+    "31":{
+        "movieName":"Article-15",
+        "Year":"2019",
+        "age":"16+",
+        "type":"Entertainment",
+        "poster":"/movies-images/hindi-movies/article15.jpg",
+        "Cast":"Ayushmann-Khurrana,Isha-Talwar",
+        "trailer":"/hindi-movie-trailers/article15.mp4",
+        "file1":"/hindi-movie-trailers/article15.mp4"
+
+    
+    },
+
+    "32":{
+        "movieName":"Baazaar",
+        "Year":"2016",
+        "age":"18+",
+        "type":"Thriller",
+        "poster":"/movies-images/hindi-movies/baazaar.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/hindi-movie-trailers/baazar.mp4",
+        "file1":"/hindi-movie-trailers/baazar.mp4"
+
+        
+
+    
+    },
+
+    "33":{
+        "movieName":"Bahubali",
+        "Year":"2015",
+        "age":"12+",
+        "type":"Action",
+        "poster":"/movies-images/hindi-movies/bahubali.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"/hindi-movie-trailers/bahubali.mp4",
+        "file1":"/hindi-movie-trailers/bahubali.mp4"
+
+
+    
+    }
+   
+
+
+
+
+}

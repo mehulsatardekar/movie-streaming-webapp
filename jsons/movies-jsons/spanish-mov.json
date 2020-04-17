@@ -1,0 +1,48 @@
+
+{
+
+    "0":{
+        "movieName":"Drive",
+        "year":"2018",
+        "age":"18+",
+        "type":"Entertainment",
+        "poster":"/htmls/images/dangal.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"https://netflix-videos-host.s3.ap-south-1.amazonaws.com/main-videos/THE+WITCHER+_+FINAL+TRAILER+_+NETFLIX.mp4",
+        "videos":[{
+                    "file":"https://netflix-videos-host.s3.ap-south-1.amazonaws.com/main-videos/THE+WITCHER+_+FINAL+TRAILER+_+NETFLIX.mp4",
+                "label":"720p HD"
+            },
+            {
+                "file":"https://netflix-videos-host.s3.ap-south-1.amazonaws.com/main-videos/THE+WITCHER+_+FINAL+TRAILER+_+NETFLIX.mp4",
+                "label":"360p HD"
+            }
+       ]
+
+    
+    },
+
+
+
+    "1":{
+        "movieName":"Pepa-Pig",
+        "Year":"2015",
+        "age":"12+",
+        "type":"Childrens",
+        "poster":"/htmls/images/slide2.jpg",
+        "Cast":"Dwayne Jhonson,Alexa Dadario,Tim Cooper",
+        "trailer":"https://netflix-videos-host.s3.ap-south-1.amazonaws.com/main-videos/THE+WITCHER+_+FINAL+TRAILER+_+NETFLIX.mp4",
+        "videos":[{
+                    "file":"https://netflix-videos-host.s3.ap-south-1.amazonaws.com/main-videos/THE+WITCHER+_+FINAL+TRAILER+_+NETFLIX.mp4",
+                "label":"720p HD"
+            },
+            {
+                "file":"https://netflix-videos-host.s3.ap-south-1.amazonaws.com/main-videos/THE+WITCHER+_+FINAL+TRAILER+_+NETFLIX.mp4",
+                "label":"360p HD"
+            }
+       ]
+
+    
+    }
+
+}

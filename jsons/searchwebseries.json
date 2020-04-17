@@ -1,0 +1,435 @@
+
+{
+
+    "0":{
+        "seriesName":"13-Reason-why",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Thriller,Nudity",
+        "poster":"/web-series-imgs/english-series/13reasonwhy.jpg",
+        "Cast":"Dylan-Minnette,Katherine-Langford,Alisha-Boe",
+        "trailer":"/web-series-trailer/web-seren-trailer/13reasonswhy.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/13reasonswhy.mp4",
+        "file2":"/web-series-trailer/web-seren-trailer/6days.mp4",
+        "file3":"/web-series-trailer/web-seren-trailer/balckmirror.mp4"
+
+   
+
+    
+    },
+
+
+    "1":{
+        "seriesName":"6-Days",
+        "Year":"2019",
+        "age":"16+",
+        "type":"Thriller",
+        "poster":"/web-series-imgs/english-series/6days.jpg",
+        "Cast":"Daniel-Hubbard,Suzanne-McAleer,Stevie-Ray,Adrian-Dentice",
+        "trailer":"/web-series-trailer/web-seren-trailer/6days.mp4",
+        "file1":"/hindi-movie-trailers/andhadhun.mp4",
+        "file2":"/hindi-movie-trailers/andhadhun.mp4",
+        "file3":"/hindi-movie-trailers/andhadhun.mp4"
+        
+   
+    },
+
+    "2":{
+        "seriesName":"Bodyguard",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Thriller,Nudity",
+        "poster":"/web-series-imgs/english-series/bodyguard.jpg",
+        "Cast":"Richard-Madden,Keeley-Hawes,Sophie-Rundle",
+        "trailer":"/web-series-trailer/web-seren-trailer/thebodyguard.mp4",
+        "file1":"/hindi-movie-trailers/andhadhun.mp4",
+        "file2":"/hindi-movie-trailers/andhadhun.mp4",
+        "file3":"/hindi-movie-trailers/andhadhun.mp4"
+        
+   
+    },
+
+    "3":{
+        "seriesName":"Altered-Carbon",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Thriller",
+        "poster":"/web-series-imgs/english-series/altered-carbon.jpg",
+        "Cast":"Joel-Kinnaman,Renee-Elise-Goldsberry,Chris-Conner,",
+        "trailer":"/web-series-trailer/web-seren-trailer/alteredcarbon.mp4",
+        "file1":"/hindi-movie-trailers/andhadhun.mp4",
+        "file2":"/hindi-movie-trailers/andhadhun.mp4",
+        "file3":"/hindi-movie-trailers/andhadhun.mp4"
+        
+   
+
+    
+    },
+
+
+    "4":{
+        "seriesName":"Black-Mirror",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Thriller,Nudity",
+        "poster":"/web-series-imgs/english-series/blackmirror.jpg",
+        "Cast":"Bryce-Dallas-Howard,Hannah-John-Kamen,Michaela-Coel",
+        "trailer":"/web-series-trailer/web-seren-trailer/balckmirror.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/balckmirror.mp4",
+        "file2":"/web-series-trailer/web-seren-trailer/balckmirror.mp4",
+        "file3":"/web-series-trailer/web-seren-trailer/balckmirror.mp4"
+       
+   
+
+    
+    },
+
+
+    "5":{
+        "seriesName":"The-Witcher",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Action,Nudity",
+        "poster":"/web-series-imgs/english-series/thewitcher.jpg",
+        "Cast":"Henry-Cavill,Anya-Chalotra,Freya-Allan,Joey-Batey",
+        "trailer":"/web-series-trailer/web-seren-trailer/witcher.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/witcher.mp4"
+        
+   
+
+    
+    },
+
+    "6":{
+        "seriesName":"Breaking-Bad",
+        "Year":"2019",
+        "age":"16+",
+        "type":"Thriller",
+        "poster":"/web-series-imgs/english-series/breakingbad.jpg",
+        "Cast":"Bryan-Cranston,Aaron-Paul,Anna-Gunn,RJ-Mitte",
+        "trailer":"/web-series-trailer/web-seren-trailer/breakingbad.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/breakingbad.mp4"
+   
+
+    
+    },
+
+    "7":{
+        "seriesName":"Dark",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Thriller,Nudity",
+        "poster":"/web-series-imgs/english-series/dark.jpg",
+        "Cast":"Louis-Hofmann,Lisa-Vicari,Maja Schöne,Jördis-Triebel",
+        "trailer":"/web-series-trailer/web-seren-trailer/dark.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/dark.mp4"
+   
+
+    
+    },
+
+    "8":{
+        "seriesName":"Fauda",
+        "Year":"2019",
+        "age":"16+",
+        "type":"Thriller",
+        "poster":"/web-series-imgs/english-series/fauda.jpg",
+        "Cast":"Idan-amedi,Lior-raz,Rona-lee-shimon",
+        "trailer":"/web-series-trailer/web-seren-trailer/fauda.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/fauda.mp4",
+        "file2":"/web-series-trailer/web-seren-trailer/fauda.mp4"
+    
+
+   
+
+    
+    },
+
+    "9":{
+        "seriesName":"Lone-Survivor",
+        "Year":"2019",
+        "age":"16+",
+        "type":"Thriller",
+        "poster":"/web-series-imgs/english-series/lone-survivor.jpg",
+        "Cast":"Mark-Wahlberg,Dan-Bilzerian,Taylor-Kitsch",
+        "trailer":"/web-series-trailer/web-seren-trailer/lonesurvivor.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/lonesurvivor.mp4"
+   
+
+    
+    },
+
+    "10":{
+        "seriesName":"Narcos",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Thriller,Nudity",
+        "poster":"/web-series-imgs/english-series/narcos.jpg",
+        "Cast":"Pedro-Pascal,Wagner-Moura,Boyd-Holbrook",
+        "trailer":"/web-series-trailer/web-seren-trailer/narcos.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/narcos.mp4"
+   
+
+    
+    },
+
+    "11":{
+        "seriesName":"The-Occupant",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Thriller,Nudity",
+        "poster":"/web-series-imgs/english-series/occupant.jpg",
+        "Cast":"Cody-horn,Van-hansis,Throstan-kaye",
+        "trailer":"/web-series-trailer/web-seren-trailer/theoccupant.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/theoccupant.mp4"
+   
+
+    
+    },
+
+    "12":{
+        "seriesName":"You",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Suspense,Nudity",
+        "poster":"/web-series-imgs/english-series/you.jpg",
+        "Cast":"Penn-badgely,Elizabeth-lail,Shay-mitchell",
+        "trailer":"/web-series-trailer/web-seren-trailer/you.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/you.mp4"
+   
+
+    
+    },
+
+    "13":{
+        "seriesName":"Bard-Of-Blood",
+        "Year":"2018",
+        "age":"16+",
+        "type":"Thriller",
+        "poster":"/web-series-imgs/hindi-series/bardofblood.jpg",
+        "Cast":"Emraan-hashmi,Kriti-kulhari,Shruthi-marathe",
+        "trailer":"/web-series-trailer/web-seren-trailer/13reasonswhy.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/13reasonswhy.mp4"
+   
+
+    
+    },
+
+
+    "14":{
+        "seriesName":"GirlsHostel",
+        "Year":"2019",
+        "age":"16+",
+        "type":"Entertainment",
+        "poster":"/web-series-imgs/hindi-series/girlshostel.jpg",
+        "Cast":"Simran-Natekar,Parul-gulati,Shreya-mehta",
+        "trailer":"/web-series-trailer/web-seren-trailer/6days.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/6days.mp4"
+   
+    },
+
+    "15":{
+        "seriesName":"Guilty",
+        "Year":"2020",
+        "age":"18+",
+        "type":"Thriller,Nudity",
+        "poster":"/web-series-imgs/hindi-series/guilty.jpg",
+        "Cast":"Kiara-advani,Taher-shabbir",
+        "trailer":"/web-series-trailer/web-seren-trailer/thebodyguard.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/thebodyguard.mp4",
+        "file2":"https://netflix-videos-host.s3.ap-south-1.amazonaws.com/main-videos/THE+WITCHER+_+FINAL+TRAILER+_+NETFLIX.mp4",
+        "file3":"https://netflix-videos-host.s3.ap-south-1.amazonaws.com/main-videos/THE+WITCHER+_+FINAL+TRAILER+_+NETFLIX.mp4"
+
+   
+    },
+
+    "16":{
+        "seriesName":"Jamatra",
+        "Year":"2018",
+        "age":"18+",
+        "type":"Thriller,Nudity",
+        "poster":"/web-series-imgs/hindi-series/jamatra.jpg",
+        "Cast":"Aksha-pardasany,Sparsh-shrivasta",
+        "trailer":"/web-series-trailer/web-seren-trailer/alteredcarbon.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/alteredcarbon.mp4"
+   
+
+    
+    },
+
+
+    "17":{
+        "seriesName":"Leila",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Thriller,Entertainment",
+        "poster":"/web-series-imgs/hindi-series/leila.jpg",
+        "Cast":"Huma-Qureshi,Rahul-khanna,Siddharth",
+        "trailer":"/web-series-trailer/web-seren-trailer/balckmirror.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/balckmirror.mp4"
+
+    
+    },
+
+
+    "18":{
+        "seriesName":"Little-Things",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Entertainment",
+        "poster":"/web-series-imgs/hindi-series/littlethings.jpg",
+        "Cast":"Mitthila-palkar,Dhruv-Sehgal",
+        "trailer":"/web-series-trailer/web-seren-trailer/witcher.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/witcher.mp4"
+   
+
+    
+    },
+
+    "19":{
+        "seriesName":"Money-Heist",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Thriller,Nudity",
+        "poster":"/web-series-imgs/you-maylike/Moneyheist.jpg",
+        "Cast":"Dylan-Minnette,Katherine-Langford,Alisha-Boe",
+        "trailer":"/web-series-trailer/web-seren-trailer/13reasonswhy.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/witcher.mp4"
+
+    
+    },
+
+
+    "20":{
+        "seriesName":"Blacklist",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Thriller,Nudity",
+        "poster":"/web-series-imgs/you-maylike/blacklist.jpg",
+        "Cast":"James-spader,Megan-boone,Parminder-nagra",
+        "trailer":"/web-series-trailer/web-seren-trailer/6days.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/6days.mp4"
+        
+   
+    },
+
+    "21":{
+        "seriesName":"Dragon-RescueRiders",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Entertainment",
+        "poster":"/web-series-imgs/you-maylike/dragonrescueriders.jpg",
+        "Cast":"Nicolas-cantu,Skai-jackson,Zach-callison",
+        "trailer":"/web-series-trailer/web-seren-trailer/thebodyguard.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/thebodyguard.mp4"
+   
+    },
+
+    "22":{
+        "seriesName":"Flash",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Thriller",
+        "poster":"/web-series-imgs/you-maylike/flash.jpg",
+        "Cast":"Grant-Gustin,Candice-Patton,Danielle-Panabaker",
+        "trailer":"/web-series-trailer/web-seren-trailer/alteredcarbon.mp4",
+        "file1":"/hindi-movie-trailers/andhadhun.mp4"
+   
+
+    
+    },
+
+
+    "23":{
+        "seriesName":"Gotham",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Thriller,Entertainment",
+        "poster":"/web-series-imgs/you-maylike/gotham.jpg",
+        "Cast":"Sean-Pertwee,Jada-Pinkett-Smith,Crystal-Reed",
+        "trailer":"/web-series-trailer/web-seren-trailer/balckmirror.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/balckmirror.mp4"
+   
+
+    
+    },
+
+
+    "24":{
+        "seriesName":"Minecraft",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Kids",
+        "poster":"/web-series-imgs/you-maylike/minecraft.jpg",
+        "Cast":"Dylan-Minnette,Katherine-Langford,Alisha-Boe",
+        "trailer":"/web-series-trailer/web-seren-trailer/witcher.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/witcher.mp4"
+   
+
+    
+    },
+
+    "25":{
+        "seriesName":"Our-Plant",
+        "Year":"2019",
+        "age":"12+",
+        "type":"Thriller",
+        "poster":"/web-series-imgs/you-maylike/ourplanet.jpg",
+        "Cast":"Dylan-Minnette,Katherine-Langford,Alisha-Boe",
+        "trailer":"/web-series-trailer/web-seren-trailer/breakingbad.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/breakingbad.mp4",
+        "file2":"https://netflix-videos-host.s3.ap-south-1.amazonaws.com/main-videos/THE+WITCHER+_+FINAL+TRAILER+_+NETFLIX.mp4",
+        "file3":"https://netflix-videos-host.s3.ap-south-1.amazonaws.com/main-videos/THE+WITCHER+_+FINAL+TRAILER+_+NETFLIX.mp4"
+
+   
+
+    
+    },
+
+    "26":{
+        "seriesName":"Sabrina",
+        "Year":"2019",
+        "age":"18+",
+        "type":"Thriller,Nudity",
+        "poster":"/web-series-imgs/you-maylike/sabrina.jpg",
+        "Cast":"Kiernan-Shikpa,ross-Lynch",
+        "trailer":"/web-series-trailer/web-seren-trailer/dark.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/dark.mp4",
+        "file2":"https://netflix-videos-host.s3.ap-south-1.amazonaws.com/main-videos/THE+WITCHER+_+FINAL+TRAILER+_+NETFLIX.mp4",
+        "file3":"https://netflix-videos-host.s3.ap-south-1.amazonaws.com/main-videos/THE+WITCHER+_+FINAL+TRAILER+_+NETFLIX.mp4"
+
+   
+
+    
+    },
+
+    "27":{
+        "seriesName":"Spongbob",
+        "Year":"2019",
+        "age":"15+",
+        "type":"Entertainment",
+        "poster":"/web-series-imgs/you-maylike/spongbob.jpg",
+        "Cast":"Tomm-kenny,Clancy-Brown",
+        "trailer":"/web-series-trailer/web-seren-trailer/fauda.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/fauda.mp4"
+
+    
+    },
+
+    "28":{
+        "seriesName":"The-End-Of-Fucking-World",
+        "Year":"2018",
+        "age":"18+",
+        "type":"Thriller,Nudity",
+        "poster":"/web-series-imgs/you-maylike/theendoffuckingworld.jpg",
+        "Cast":"Jessica-Barden,Naomi-Ackie,Jonathan-Aris",
+        "trailer":"/web-series-trailer/web-seren-trailer/lonesurvivor.mp4",
+        "file1":"/web-series-trailer/web-seren-trailer/lonesurvivor.mp4"
+   
+
+    
+    }
+
+
+
+}
