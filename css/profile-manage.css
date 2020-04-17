@@ -1,0 +1,60 @@
+body{
+
+    background-color: #141414;
+}
+
+h1{
+
+    color: white;
+    padding-top: 8%;
+}
+.img-thumbnail{
+
+    max-width: 50% !important;
+}
+
+.txt{
+
+    color: white;
+    padding-right: 110px;
+}
+
+
+.nav-img{
+
+    max-width: 130px;
+}
+.btn{
+
+    background-color: white;
+    color: black;
+}
+
+.btn:hover{
+
+    background-color: red;
+    color: white;
+}
+
+img:hover {
+
+        padding: .25rem;
+        background-color:red;
+    
+    }
+
+    .img-thumbnail {
+        padding: 0rem;
+        border: 0px solid;
+    }
+ .bts{
+
+    width: 120px;
+ }   
+
+ .nohove{
+
+    pointer-events: none;
+ }
+
+

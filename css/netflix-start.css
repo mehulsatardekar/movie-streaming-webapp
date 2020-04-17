@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:700,900");
+
+body {
+	background: radial-gradient(rgb(14, 13, 13), rgb(7, 7, 7));
+	background-size: 100vw 100vh;
+	overflow: hidden;
+	padding-top: 40vh;
+}
+
+.txt {
+	text-align: center;
+	font-family: 'Roboto';
+	font-size: 12vmin;
+	font-weight: 700;
+	animation: netflix_style 3.5s infinite;
+	outline: none;
+	white-space: nowrap;
+	color: red;
+}
+

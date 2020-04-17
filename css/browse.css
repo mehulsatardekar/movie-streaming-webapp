@@ -1,0 +1,318 @@
+header {
+    position: relative;
+    background-color: black;
+    height: 100vh;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  header video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+  }
+  
+  header .container {
+    position: relative;
+    z-index: 2;
+  }
+  
+  body{
+  
+      background-color: #141414;
+  }
+  
+  header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: 1;
+  }
+  
+  @media (pointer: coarse) and (hover: none) {
+    header {
+      background: url('https://occ-0-2164-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeRUbzWsFz2DqO9Dv3RdC5cCoMRdrTxh0nlH1tb-uQFRmhSB1Gh8WLgqfxAsby7V1HPwQDXUVbtCAE1Prw3JWWNenSAnc2WngS5Z_l6sjsM6s00EvQ.webp?r=520') black no-repeat center center scroll;
+    }
+    header video {
+      display: none;
+    }
+  }
+  
+  
+  .header {
+      background: url('../movie albums/the witcher/the-witche.jpg') red no-repeat center   ;
+      background-size: cover;
+    }
+   
+  
+  
+  .nav-img{
+  
+      max-width: 110px;
+  }
+  
+  .navbar[data-sticky=top].scrolled.navbar-dark {
+      background: #000000;
+      border-bottom-color: transparent;
+  }
+  
+  .navbar-dark {
+      border-bottom: 0px solid rgba(255,255,255,.08);
+  }
+  
+  .imt{
+  
+      max-width: 330px;
+      margin-top: 150px;
+      margin-right: 452px;
+      margin-left: -2px;
+  
+  }
+  .fonts{
+      font-family: 'Roboto', sans-serif;
+      color: white;
+  }  
+  
+  .icon{
+      max-width: 12px;
+      color: white;
+  }
+  .ic:hover{
+  
+      color: black;
+  }
+  .bt:hover{
+  
+      color: black;
+      background-color: white;
+  }
+  
+  .bt{
+  
+      background-color: rgba(51, 51, 51, 0.4);
+      color: white;
+  }
+  .bt1{
+      color: whitesmoke;
+  }
+  .title{
+      margin-top: 312px;
+  }
+  
+  
+  
+  
+  .slider {
+          width: 70%;
+         
+      }
+  
+      .slick-slide {
+        margin: 0px 5px;
+      }
+  
+      .slick-slide img {
+        width: 100%;
+      }
+  
+      .slick-prev:before,
+      .slick-next:before {
+        color: rgb(233, 15, 15);
+      }
+  
+  
+      
+    
+  
+  
+  
+      html {
+       scroll-behavior: smooth;
+  }
+   body {
+       margin: 0;
+       background-color: #000;
+     overflow-x: hidden;
+    
+  }
+   h1 {
+       font-family: Arial;
+       color: red;
+       text-align: center;
+  }
+   .wrapper {
+       display: grid;
+       grid-template-columns: repeat(5, 100%);
+       overflow: hidden;
+       scroll-behavior: smooth;
+     margin-top:  0px;
+     margin-bottom: -71px;
+  
+  }
+   .wrapper section {
+       width: 97.5%;
+       position: relative;
+       display: grid;
+       grid-template-columns: repeat(5, auto);
+  }
+  .item {
+       padding: 10px 1px;
+       transition: 150ms all;
+     transition: transform .2s;
+    background-size: cover;
+  }
+   .item:hover {
+      
+       transform: scale(1.2);
+     
+  }
+   
+   
+   @media only screen and (max-width: 600px) {
+       a.arrow__btn {
+           display: none;
+      }
+  
+    .slick-prev:before, .slick-next:before {
+     display: none;
+  }
+  }
+  
+    .bancolr{
+      color: rgb(255, 254, 254);
+    }
+  
+    .slick-prev:before, .slick-next:before {
+      color: rgb(233, 15, 15);
+  }
+  
+  .slick-next:before {
+      content: '→';
+  }
+  .slick-prev:before, .slick-next:before {
+      font-family: 'slick';
+      font-size: 22px;
+      line-height: 1; 
+      /* opacity: .75; */
+      /* color: white; */
+      /* -webkit-font-smoothing: antialiased; */
+      -moz-osx-font-smoothing: grayscale;
+  }
+  
+  img{
+    background-size: cover;
+  }
+  
+  
+  .active {
+      background: rgb(7, 7, 7);
+     
+  }
+  
+  
+  
+  .navbar .nav-link {
+      color: #fff;
+  }
+  
+  
+  
+  .solid {
+    background-color: rgb(12, 12, 12);
+    transition: background-color 0s ease 0s;
+    box-shadow: 0 0 14px rgb(0, 0, 0);
+  }
+  
+  
+  .block{
+  
+    background-image: url('/htmls/images/netflix-imgs/block-pt/titans_bg-img.webp') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+  }
+  
+  .block-img{
+  
+    width: 253px;
+    padding-top: 50px;
+  }
+  
+  .opc{
+    opacity: 0.3;
+  }
+  
+  .ico{
+   font-size: 39px;
+  }
+  
+  footer{
+    background-color: rgb(44, 43, 43);
+  }
+  a{
+    color: #fff;
+  }
+  a:hover{
+    color:rgb(65, 65, 65);
+  }
+  @media (max-width: 575.98px) { 
+  
+  .navbar{
+    background-color: black;
+  }
+  
+    .ico{
+   font-size: 19px;
+  }
+  
+  
+    .block-img{
+  
+  width: 153px;
+  margin-left: 120px;
+  padding-top: 0px;
+  margin-top: 0px;
+  
+  }
+  
+  
+  .block-p{
+  
+    font-size: smaller;
+  }
+  
+  .embed-responsive-item
+  {
+    display: none;
+  }
+  
+  
+  
+   }
+  @media (min-width: 768px) {
+      .h-md-100 { height: 70vh; }
+  }
+  .btn-round { border-radius: 30px; }
+  
+  .mrg
+  {
+    margin-left: 543px;
+  }
+  .icon{
+    color: white;
+  }
+  
