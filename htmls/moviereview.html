@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movies</title>
+    <!-- Font Awesome -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Roboto:500&display=swap" rel="stylesheet">
+<!-- Bootstrap core CSS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+<!-- Material Design Bootstrap -->
+
+<meta name="theme-color" content="#060404 " />
+<link rel="icon" href="/img/profile-pic/netflix-logo.ico">
+
+
+<link rel="stylesheet" href="../css/moviereview.css">
+<script src='https://cdn.jwplayer.com/libraries/oe7qChJ5.js'></script>
+
+</head>
+<body>
+    
+  <div id="masters">
+
+  </div>
+      
+      
+        <div id="player" style="height: 10%;">Loading the player...</div>
+
+      
+      
+
+        
+ <div id="result">
+   
+ </div>
+  <hr> 
+  <!--  
+ <div class="container-fluid">
+     <div class="text-center text-white h5 pb-3 pt-3">MORE LIKE THIS</div>
+     
+     <div class="pb-5" id="blockid">
+      <div class="row" id="blockid">
+  
+        <div class="col-sm-12 col-lg-3 col-md-3 pb-3">
+          <video src="https://netflix-videos-host.s3.ap-south-1.amazonaws.com/main-videos/THE+WITCHER+_+FINAL+TRAILER+_+NETFLIX.mp4" class="rounded img-thumbnail vt video" id="vt" poster="/htmls/images/slide1.jpg">
+          
+          </video>
+          <div class="pt-2">
+            <span class="text-white">Drive</span></br>
+            <span class="text-muted ">2018</span><span class="text-muted pl-3 ">18+</span><span class="text-muted pl-3 ">Entertainment</span>
+          </div>
+          
+          </div>
+          <div class="col-sm-12 col-lg-3 col-md-3 pb-3">
+            <video src="https://netflix-videos-host.s3.ap-south-1.amazonaws.com/main-videos/THE+WITCHER+_+FINAL+TRAILER+_+NETFLIX.mp4" class="rounded img-thumbnail vt video" id="vt" poster="/htmls/images/slide1.jpg">
+            
+            </video>
+            <div class="pt-2">
+              <span class="text-white">Drive</span></br>
+              <span class="text-muted ">2018</span><span class="text-muted pl-3 ">18+</span><span class="text-muted pl-3 ">Entertainment</span>
+            </div>
+            
+            </div>
+
+            <div class="col-sm-12 col-lg-3 col-md-3 pb-3">
+              <video src="https://netflix-videos-host.s3.ap-south-1.amazonaws.com/main-videos/THE+WITCHER+_+FINAL+TRAILER+_+NETFLIX.mp4" class="rounded img-thumbnail vt video" id="vt" poster="/htmls/images/slide1.jpg">
+              
+              </video>
+              <div class="pt-2">
+                <span class="text-white">Drive</span></br>
+                <span class="text-muted ">2018</span><span class="text-muted pl-3 ">18+</span><span class="text-muted pl-3 ">Entertainment</span>
+              </div>
+              
+              </div>
+
+              <div class="col-sm-12 col-lg-3 col-md-3 pb-3">
+                <video src="https://netflix-videos-host.s3.ap-south-1.amazonaws.com/main-videos/THE+WITCHER+_+FINAL+TRAILER+_+NETFLIX.mp4" class="rounded img-thumbnail vt video" id="vt" poster="/htmls/images/slide1.jpg">
+                
+                </video>
+                <div class="pt-2">
+                  <span class="text-white">Drive</span></br>
+                  <span class="text-muted ">2018</span><span class="text-muted pl-3 ">18+</span><span class="text-muted pl-3 ">Entertainment</span>
+                </div>
+                
+                </div>
+
+      </div>
+    </div>
+ </div>
+-->
+
+
+
+
+
+
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js" type="text/javascript"></script>
+  <script src="https://kit.fontawesome.com/f50700485d.js" crossorigin="anonymous"></script>
+ 
+ <script src="/js/movie-review.js"></script>
+
+
+ <script>
+  $(document).ready(function () {
+          //adds menu.html content into any "#menu" element
+          $('#masters').load('/htmls/masterpage.html');
+          //$(".card-columns").slice(0, 3).show();
+          $(window).scroll(function() {
+          // checks if window is scrolled more than 500px, adds/removes solid class
+          if($(this).scrollTop() > 10) { 
+              $('.navbar').addClass('solid');
+          } else {
+              $('.navbar').removeClass('solid');
+          }
+        });
+      });
+</script>
+
+
+<script>
+   
+var videos = document.querySelectorAll(".vt");
+   
+  
+   videos.forEach(video=> {
+   
+   video.addEventListener("mouseover", function(){
+      this.play()
+      //alert()
+   })
+   
+   video.addEventListener("mouseout", function(){
+
+      this.pause();
+      //this.poster="/htmls/images/slide2.jpg"
+      this.load();
+   })
+   
+
+   })
+
+
+   videos.forEach(function(vid, idx) {
+    vid.addEventListener('ended', resetVideo, false);
+  });
+
+  function resetVideo(e) {
+    this.load();
+  }
+</script>
+
+
+
+
+
+ 
+<script>
+  // Setup the player
+
+
+
+/*
+let playlists = [
+'iLwfYW2S',
+'pVI22mfa',
+'8TbJTFy5',
+[
+'RDn7eg0o',
+'tkM1zvBq',
+'i3q4gcBi'
+]
+];
+
+const apiUrl = mediaid => `https://cdn.jwplayer.com/v2/media/${mediaid}`;
+
+playlists = playlists.map(playlist => {
+if (typeof playlist === 'string') {
+return apiUrl(playlist);
+}
+
+// To build a complete playlist, this demo fetches the full JW Delivery API
+// responses for each media id.
+const fetches = playlist.map(item => fetch(apiUrl(item)).then(r => r.json()));
+return Promise.all(fetches).then(media => media.flatMap(m => m.playlist));
+});
+
+Promise.all(playlists).then(playlists => {
+const select = document.getElementById('playlist-picker');
+
+const player = jwplayer('player').setup({
+playlist: playlists[0],
+height:'50%',
+width:'10%',
+autostart:true
+});
+
+select.addEventListener('change', () => {
+player.load(playlists[select.selectedIndex]);
+});
+});
+*/
+
+
+
+ 
+</script>
+</html>
